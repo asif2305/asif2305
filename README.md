@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Asif Ahmed</h1>
 <h3 align="center">A passionate software developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asif2305&label=Profile%20views&color=0e75b6&style=flat" alt="asif2305" /> </p>
@@ -7,6 +8,10 @@
 <p align="left"> <a href="https://twitter.com/asif230591" target="blank"><img src="https://img.shields.io/twitter/follow/asif230591?logo=twitter&style=for-the-badge" alt="asif230591" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/asif2305](https://github.com/asif2305)
+
+- 💬 Ask me about **react, Machine and Deep Learning**
+
+- 📫 How to reach me **asif.ahmedtuc@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/asif-ahmed-46299255/](https://www.linkedin.com/in/asif-ahmed-46299255/)
 
